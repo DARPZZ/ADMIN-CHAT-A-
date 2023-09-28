@@ -12,8 +12,8 @@ namespace ADMIN_CHAT_AÅÅ.Helpers
 
         public RelayCommand(Action<object> execute, Predicate<object> canExecute = null)
         {
-            execute = execute;
-            canExecute = canExecute;
+            _execute = execute;
+            _canExecute = canExecute;
         }
 
         public bool CanExecute(object parameter)
