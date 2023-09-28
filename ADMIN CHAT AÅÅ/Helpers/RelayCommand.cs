@@ -7,7 +7,6 @@ namespace ADMIN_CHAT_AÅÅ.Helpers
     {
         private readonly Action<object> execute;
         private readonly Predicate<object> canExecute;
-
         public event EventHandler CanExecuteChanged;
 
         public RelayCommand(Action<object> execute, Predicate<object> canExecute = null)
