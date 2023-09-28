@@ -1,0 +1,70 @@
+
+<messages>
+    <happy>
+        <message>Hey there!</message>
+        <message>Hello! How can I make your day even brighter today?</message>
+        <message>I just got some fantastic news!</message>
+        <message>That's amazing! Share the good news with me. I'd love to celebrate with you!</message>
+        <message>Spent the day with friends, and it was so much fun!</message>
+        <message>Friends and fun are the perfect combo! Tell me more about your awesome day.</message>
+        <message>I received a surprise gift today!</message>
+        <message>Surprises are the best! What was the gift, and who gave it to you?</message>
+        <message>Just finished a delicious homemade meal!</message>
+        <message>Yum! What did you have? Homemade meals are the best kind of comfort.</message>
+        <message>Enjoying a beautiful sunset right now.</message>
+        <message>Sunsets have a magical way of lifting the spirits. Cherish the moment!</message>
+        <message>I aced my exam!</message>
+        <message>That's fantastic news! Your hard work paid off. High-five!</message>
+        <message>It's the weekend, and I have no plans but to relax.</message>
+        <message>Ah, the joy of a relaxing weekend! Enjoy every moment of it.</message>
+        <message>I just adopted a puppy!</message>
+        <message>Congratulations on your new furry friend! Puppies bring so much joy.</message>
+    </happy>
+	<sad>
+	  <message>Hey there! retard</message>
+	 <message>Feeling lost and unsure about everything.</message>
+    <message>Missing someone I can never get back.</message>
+    <message>Struggling to find motivation to keep going.</message>
+    <message>Feeling like a burden to those around me.</message>
+    <message>Constantly battling my own thoughts and fears.</message>
+    <message>Longing for a sense of purpose and direction.</message>
+    <message>Dealing with a broken heart and shattered dreams.</message>
+    <message>Feeling inadequate despite my best efforts.</message>
+    <message>Caught in a cycle of sadness and despair.</message>
+    <message>Wishing for a glimmer of hope in this darkness.</message>
+    <message>Overthinking every decision I've ever made.</message>
+    <message>Holding back tears and putting on a brave face.</message>
+    <message>Feeling like I'm drowning in a sea of problems.</message>
+    <message>Struggling to sleep, my mind won't stop racing.</message>
+    <message>Feeling rejected and unloved.</message>
+    <message>Living with regrets that I can't undo.</message>
+    <message>Longing for a time when things felt simpler.</message>
+    <message>Trying to find strength despite feeling weak.</message>
+    <message>Feeling like I'm losing a part of myself.</message>
+    <message>Praying for a ray of light to break through the darkness.</message>
+	</sad>
+
+	 <neutral>
+	 
+        <message>Just another day.</message>
+        <message>Finished my chores.</message>
+        <message>Enjoying a cup of tea.</message>
+        <message>Weather is nice today.</message>
+        <message>Planning for the week ahead.</message>
+        <message>Trying out a new recipe for dinner.</message>
+        <message>Listening to my favorite music.</message>
+        <message>Reading a book.</message>
+        <message>Caught up on some TV shows.</message>
+        <message>Taking a walk in the park.</message>
+        <message>Checking emails and messages.</message>
+        <message>Organizing my desk.</message>
+        <message>Writing in my journal.</message>
+        <message>Going for a run later.</message>
+        <message>Looking forward to the weekend.</message>
+        <message>Contemplating future goals.</message>
+        <message>Working on a personal project.</message>
+        <message>Exploring a new hobby.</message>
+        <message>Cleaning up around the house.</message>
+        <message>Attending a virtual meeting.</message>
+    </neutral>
+</messages>
