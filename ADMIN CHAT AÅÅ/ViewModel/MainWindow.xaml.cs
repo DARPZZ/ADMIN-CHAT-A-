@@ -6,7 +6,7 @@ using ADMIN_CHAT_AÅÅ.Helpers;
 using ADMIN_CHAT_AÅÅ.Model;
 using ADMIN_CHAT_AÅÅ.ViewModel;
 
-namespace ADMIN_CHAT_AÅÅ
+namespace ADMIN_CHAT_AÅÅ.View
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -33,8 +33,8 @@ namespace ADMIN_CHAT_AÅÅ
         {
             string ord = searchTextBox.Text;
             wordSearch.SøgEfterOrd(ord, happyChatListBox, sadChatListBox, neutralChatListBox);
-            Result.Text = ("There is " + wordSearch.happyWordCount + " Happy word(s) " + wordSearch.neutralWordCount +
-                " neutral word(s) " + wordSearch.sadWordCount + " Sad word(s)" + " Of " + ord);
+            Result.Text = "There is " + wordSearch.happyWordCount + " Happy word(s) " + wordSearch.neutralWordCount +
+                " neutral word(s) " + wordSearch.sadWordCount + " Sad word(s)" + " Of " + ord;
             searchTextBox.Clear();
         }
 
