@@ -1,0 +1,7 @@
+<!DOCTYPE messages [
+    <!ELEMENT messages (happy, sad, neutral)>
+    <!ELEMENT happy (message)*>
+    <!ELEMENT sad (message)*>
+    <!ELEMENT neutral (message)*>
+    <!ELEMENT message (#PCDATA)>
+]>
